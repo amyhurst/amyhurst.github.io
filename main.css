@@ -305,10 +305,10 @@ hr {
 }
 ul, ol {
 	line-height: 1.7;
-	margin: 0 0 1.1em 1.5em;
+	margin: 0 0 1.1em 0;
 }
 ul {
-	list-style: disc;
+	list-style: none;
 }
 ul ul {
 	list-style: circle;
@@ -324,6 +324,9 @@ ol ol {
 }
 ol ol ol {
 	list-style: lower-roman;
+}
+li {
+	margin: 0.5em 0 0.5em 0;
 }
 li > ul,
 li > ol {
