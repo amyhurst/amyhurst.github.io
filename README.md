@@ -1,5 +1,4 @@
 # My Website!
-
 Where is my site hosted?
 
 * Hosted on github pages
