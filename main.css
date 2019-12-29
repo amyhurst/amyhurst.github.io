@@ -422,7 +422,7 @@ button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
-	background: #BA45E1;
+	background: #8E1DB4;
 }
 button:focus,
 input[type="button"]:focus,
@@ -432,7 +432,7 @@ button:active,
 input[type="button"]:active,
 input[type="reset"]:active,
 input[type="submit"]:active {
-	background: #BA45E1;
+	background: #8E1DB4;
 	position: relative;
 	top: 1px;
 }
@@ -490,11 +490,11 @@ textarea {
 5.1 Links
 --------------------------------------------------------------*/
 a {
-	color: #BA45E1;
+	color: #8E1DB4;
 	text-decoration: none;
 }
 a:visited {
-	color: #BA45E1;
+	color: #8E1DB4;
 }
 a:hover {
 	text-decoration: none;
@@ -587,7 +587,7 @@ a.more-link,
 }
 .main-navigation .current_page_item a,
 .main-navigation .current-menu-item a {
-	color: #BA45E1;
+	color: #8E1DB4;
 	font-weight: bold;
 }
 
@@ -677,7 +677,7 @@ a.more-link,
 .post-navigation a:hover,
 .post-navigation a:active,
 .post-navigation a:focus {
-	background-color: #BA45E1;
+	background-color: #8E1DB4;
 	text-decoration: none;
 }
 
@@ -827,7 +827,7 @@ a.more-link,
 	position: absolute !important;
 }
 .screen-reader-text:focus {
-	background-color: #BA45E1;
+	background-color: #8E1DB4;
 	border-radius: 3px;
 	clip: auto !important;
 	color: #fff !important;
@@ -1004,7 +1004,7 @@ a.more-link,
 	width: 100%;
 }
 .widget-area #wp-calendar a {
-	color: #BA45E1;
+	color: #8E1DB4;
 }
 .widget-area #wp-calendar,
 .widget-area #wp-calendar caption,
@@ -1131,7 +1131,7 @@ a.more-link,
 }
 .widget-area .tagcloud a:hover,
 .widget-area .tagcloud a:focus {
-	background: #BA45E1;
+	background: #8E1DB4;
 	color: #fff;
 	text-decoration: none;
 }
@@ -1205,7 +1205,7 @@ a.more-link,
 a.more-link:hover,
 a.more-link:active,
 a.more-link:focus {
-	background: #BA45E1;
+	background: #8E1DB4;
 	color: #fff;
 	text-decoration: none;
 }
@@ -1267,7 +1267,7 @@ a.more-link:focus {
 .entry-title a:hover,
 .entry-title a:active,
 .entry-title a:focus {
-	color: #BA45E1;
+	color: #8E1DB4;
 	text-decoration: none;
 }
 .entry-meta {
@@ -1294,7 +1294,7 @@ a.more-link:focus {
 .entry-meta a:hover,
 .entry-meta a:active,
 .entry-meta a:focus {
-	color: #BA45E1;
+	color: #8E1DB4;
 }
 .entry-meta .sep {
 	color: #ddd;
@@ -1478,7 +1478,7 @@ a.more-link:focus {
 #comment-nav-below a:hover,
 #comment-nav-below a:active,
 #comment-nav-below a:focus {
-	color: #BA45E1;
+	color: #8E1DB4;
 }
 .comments-title {
 	font-size: 2.6px;
@@ -1551,7 +1551,7 @@ a.more-link:focus {
 .comment-list .comment-author .fn a:hover,
 .comment-list .comment-author .fn a:active,
 .comment-list .comment-author .fn a:focus {
-	color: #BA45E1;
+	color: #8E1DB4;
 }
 .comment-list .comment-metadata {
 	font-size: 12px;
@@ -1565,7 +1565,7 @@ a.more-link:focus {
 .comment-list .comment-metadata a:hover,
 .comment-list .comment-metadata a:active,
 .comment-list .comment-metadata a:focus {
-	color: #BA45E1;
+	color: #8E1DB4;
 }
 .comment-list .comment-content {
 	font-size: 15px;
@@ -1670,7 +1670,7 @@ p.comment-form-comment {
 	width: 30%;
 }
 #infinite-handle span:hover {
-	background-color: #BA45E1;
+	background-color: #8E1DB4;
 }
 
 .infinite-loader {
@@ -1711,7 +1711,7 @@ object {
 }
 .featured-image .flag {
 	border-radius: 4px 0 0 4px;
-	background: #BA45E1;
+	background: #8E1DB4;
 	color: #fff;
 	font-size: 12px;
 	font-size: 1.2rem;
@@ -1858,7 +1858,7 @@ img.alignright,
 .site-title a:hover,
 .site-title a:active,
 .site-title a:focus {
-	color: #BA45E1;
+	color: #8E1DB4;
 }
 .site-description {
 	color: rgba(255,255,255,0.5);
@@ -1889,7 +1889,7 @@ img.alignright,
 .site-info a:hover,
 .site-info a:active,
 .site-info a:focus {
-	color: #BA45E1;
+	color: #8E1DB4;
 }
 
 /*--------------------------------------------------------------
@@ -2007,7 +2007,7 @@ img.alignright,
 	.main-navigation ul ul ul a:hover,
 	.main-navigation ul ul ul a:active,
 	.main-navigation ul ul ul a:focus {
-		color: #BA45E1;
+		color: #8E1DB4;
 		padding-left: 10px;
 	}
 	.main-navigation ul ul,
@@ -2413,7 +2413,7 @@ img.alignright,
 	margin: 0 auto !important;
 }
 #flickr_badge_uber_wrapper a {
-	color: #BA45E1 !important;
+	color: #8E1DB4 !important;
 }
 #flickr_badge_uber_wrapper td {
 	border: 0 !important;
@@ -2433,7 +2433,7 @@ img.alignright,
 #flickr_badge_uber_wrapper a:hover img,
 #flickr_badge_uber_wrapper a:active img,
 #flickr_badge_uber_wrapper a:focus img {
-	background-color: #BA45E1 !important;
+	background-color: #8E1DB4 !important;
 }
 
 /* Goodreads */
